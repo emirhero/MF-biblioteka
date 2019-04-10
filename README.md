@@ -18,14 +18,14 @@ Smatraj da zakon konzervacije energije važi i ovdje - ne možeš dobiti više n
 Side note: Nismo tu da osuđujemo, ali značajan udio studenata je tokom godina fasovao uslovni refleks da ne dijele materijale iz kojih polažu. On se često rađa iz razočarenja u susretljivost i spremnost drugih kolega da urade isto. Iako za ljudsku prirodu nemamo rješenja, nadam se na svi možemo naći utjehu u činjenici da materijali zalijepljeni ovdje žive vječno, čime efektivno pružate ruku hordama budućih studenata (neki od njih čak ni ne znaju da će biti mašinci jer imaju 7 godina i prezauzeti su gledanjem Mudje na YT, ali nadoći će im). Ukratko, mislite na djecu :) 
 
 ### Gdje su knjige i zbirke?
-Knjige i zbirke tipično podliježu Zakonu o zaštiti autorskih prava. Lično, volim svoj laptop kako volim i automobile: nezaplijenjene od strane Državne agencije za istrage i zaštitu, stoga istih ovdje nema.
+Knjige i zbirke tipično podliježu Zakonu o zaštiti autorskih prava. Lično, volim svoj laptop kako volim i automobile: nezaplijenjene od strane Državne agencije za istrage i zaštitu. Iz tog razloga istih ovdje nema.
 Paradoksalno, veliki broj preporučene literature je štampan diljem Jugoslavije prije 40 ili više godina i gotovo je pa nemoguć za pronaći danas. U tom slučaju, FB grupe i kolege sa viših godina mogu pomoći.
 
 ### Šta je sa master i višim ciklusima?
 Iako bismo voljeli uvrstiti master i doktorske cikluse u repo, istina je da smo toliko odmaknuti od istih da nemamo blage veze kako struktuirati foldere i ima li uopće potrebe za tim. Ako znate odgovore na ova pitanja, definitivno nas kontaktirajte.
 
 ### Kako mogu pomoći?
-Prvi korak je da se registruješ na githubu, što preporučujemo čak i ako nemaš namjeru sudjelovati odmah. Drugi korak je da pročitaš Kako sudjelovati, treći korak je ???, a četvrti profit.
+Prvi korak je da se registruješ na githubu, što preporučujemo čak i ako nemaš namjeru sudjelovati odmah. Drugi korak je da pročitaš [Kako sudjelovati](https://github.com/emirhero/MF-biblioteka/blob/master/kako-sudjelovati.md), treći korak je ???, a četvrti profit.
 
 ### Šta je GitHub?
 GitHub je počeo život kao online baza koda koja osigurava da svi softver inžinjeri koji rade na projektu rade sa najaktuelnijom verzijom tog koda i da njihovi pojedinačni doprinosi ne prave konflikte kada se sastave (mergeaju). Od tad, prerastao je generalnu platformu za kolaboraciju zbog svog dizajna i danas možeš biti suradnik pri dizajniranju fontova, pisanju knjige ili recimo zakona  [SR Njemačke](https://github.com/bundestag/gesetze "SR Njemačke.")
